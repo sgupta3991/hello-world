@@ -2,4 +2,4 @@ hello-world
 ===========
 
 Initial steps
-edidt this file
+edit this file
